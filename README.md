@@ -1,4 +1,5 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
+[![Build Status](https://dev.azure.com/kapilcus/agile/_apis/build/status/kapilratra.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/kapilcus/agile/_build/latest?definitionId=1?branchName=master)
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
